@@ -1,5 +1,5 @@
 # #Mi11-Google-Camera
-*Go to the releases and download the "camera.apk","config.xml","lib.so"
+*Go to the releases and download the "All in it"
 ---
 *Place the downloaded file into the sample path below , or create a legend if there is no folder
 ---
